@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="GWin" Height="450" Width="800">
     <Grid>
-        
+        <TextBlock Text="GWin"/>
     </Grid>
 </Window>
